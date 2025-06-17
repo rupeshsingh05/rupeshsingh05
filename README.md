@@ -8,9 +8,9 @@ A student and a Full Stack Developer.
 
 <h2>🌐 Socials:</h2>
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rupesh_singh_19?igsh=bzFoemMydzZ3OThx) 
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_rupesh__singh_19?igsh=bzFoemMydzZ3OThx) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rupeshsingh05)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/share/16nqgbWznD/?mibextid=qi2Omg)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/16nqgbWznD/?mibextid=qi2Omg)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:singhrupeshkumar2005@gmail.com)
 
 <h2>💻 Tech Stack:</h2>
