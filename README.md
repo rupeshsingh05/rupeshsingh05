@@ -1,6 +1,6 @@
 <h2>👋 About Me:</h2>
 
-Hello 👋 I am Rupesh Kumar Singh
+Hello 👋 I am Rupesh Kumar Singh  
 A student and a Full Stack Developer.  
 💻 I love building dynamic web apps from scratch.  
 🛠 Always learning something new in tech.  
@@ -27,5 +27,5 @@ A student and a Full Stack Developer.
 
 <h2>📊 GitHub Stats:</h2>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rupeshsingh05&theme=dark&hide_border=true)](https://github.com/rupeshsingh05)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=rupeshsingh05&theme=dark&hide_border=true)](https://github.com/rupeshsingh05)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rupeshsingh05&layout=compact&theme=radical&hide_border=true)
