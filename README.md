@@ -27,5 +27,5 @@ A student and a Full Stack Developer.
 
 <h2>📊 GitHub Stats:</h2>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=rupeshsingh05&theme=dark&hide_border=true)](https://github.com/rupeshsingh05)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rupeshsingh05&show_icons=true&theme=radical&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rupeshsingh05&layout=compact&theme=radical&hide_border=true)
