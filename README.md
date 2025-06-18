@@ -1,6 +1,6 @@
 <h2>👋 About Me:</h2>
 
-Hello 👋 I am Rupesh  
+Hello 👋 I am Rupesh Kumar Singh
 A student and a Full Stack Developer.  
 💻 I love building dynamic web apps from scratch.  
 🛠 Always learning something new in tech.  
