@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hello 👋 I am Rupesh Kumar Singh
-<br>A student and a Full Stack Developer.
+<br>A student and a Full Stack Developer. 
 <br>💻 I love building dynamic web apps from scratch.
 <br>🛠 Always learning something new in tech.
 
